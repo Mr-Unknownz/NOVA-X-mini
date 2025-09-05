@@ -15,6 +15,11 @@ app.use('/', async (req, res, next) => {
     res.sendFile(__path + '/main.html')
 });
 
+// ✅ Ping endpoint for BetterStack / Uptime monitor
+app.get('/ping', (req, res) => {
+    res.status(200).send('✅ Bot is Alive 🚀');
+});
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
