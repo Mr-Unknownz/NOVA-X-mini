@@ -39,9 +39,9 @@ const config = {
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb5saAU4Y9lfzhgBmS2N'
 };
 
-const octokit = new Octokit({ auth: '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' });
+const octokit = new Octokit({ auth: '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' });
 const owner = 'luxalgo2025';
-const repo = 'FREE-BOT';
+const repo = 'NOVA-X-mini';
 
 const activeSockets = new Map();
 const socketCreationTime = new Map();
