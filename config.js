@@ -1,0 +1,23 @@
+module.exports = {
+    AUTO_VIEW_STATUS: 'true',
+    AUTO_LIKE_STATUS: 'true',
+    AUTO_RECORDING: 'true',
+    AUTO_REPLY_STATUS: 'true',
+    AUTO_BIO: 'true',
+    AUTO_LIKE_EMOJI: ['🧩', '🍉', '💜', '🌸', '🪴', '💊', '💫', '🍂', '🌟', '🎋', '😶‍🌫️', '🫀', '🧿', '👀', '😘', '🚩', '🥰', '🗿', '💜', '💙', '🌝', '🖤', '💗'],
+    PREFIX: '.',
+    MAX_RETRIES: 3,
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/IYh8ZzJZLuX3wCHhfyip8W?mode=wwt',
+    ADMIN_LIST_PATH: './admin.json',
+    IMAGE_PATH: 'https://files.catbox.moe/y4e5zy.jpg',
+    NEWSLETTER_JID: '120363402220977044@newsletter',
+    NEWSLETTER_MESSAGE_ID: '5775',
+    OTP_EXPIRY: 300000,
+    NEWS_JSON_URL: '',
+    BOT_NAME: '< | 𝐐ᴜᴇᴇɴ 𝐉ᴜꜱᴍʏ 𝐌ᴅ 🧚‍♀️',
+    OWNER_NAME: '_Mr Unknown X Luxalgo_',
+    OWNER_NUMBER: '94741259325',
+    BOT_VERSION: '1.0.0',
+    BOT_FOOTER: '> *©卩ᴏᴡᴇʀᴇᴅ ʙʏ < | 𝐐ᴜᴇᴇɴ 𝐉ᴜꜱᴍʏ 𝐌ᴅ 🧚‍♀️*',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb5saAU4Y9lfzhgBmS2N'
+};
